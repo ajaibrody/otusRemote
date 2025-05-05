@@ -2,4 +2,4 @@
 
 # path finder
 
-kingdom come deliverence 2
+kingdom come deliverence 2 , hinman
