@@ -2,7 +2,7 @@
 
 # path finder
 
-kingdom come deliverence 2 , hitnman
+kingdom come deliverence 2 , hitman
 
 #feature
 NewFeature_1
